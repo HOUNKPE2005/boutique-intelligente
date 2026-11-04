@@ -1,0 +1,38 @@
+[
+  {
+    "ref": "P01",
+    "produit": "Pagne wax 6 yards",
+    "prix_fcfa": 12000,
+    "stock": 14
+  },
+  {
+    "ref": "P02",
+    "produit": "Chemise bazin homme",
+    "prix_fcfa": 18500,
+    "stock": 3
+  },
+  {
+    "ref": "P03",
+    "produit": "Sac en raphia",
+    "prix_fcfa": 7500,
+    "stock": 0
+  },
+  {
+    "ref": "P04",
+    "produit": "Sandales en cuir",
+    "prix_fcfa": 9000,
+    "stock": 8
+  },
+  {
+    "ref": "P05",
+    "produit": "Robe en wax",
+    "prix_fcfa": 22000,
+    "stock": 5
+  },
+  {
+    "ref": "P06",
+    "produit": "Beurre de karité 500 g",
+    "prix_fcfa": 3500,
+    "stock": 40
+  }
+]
